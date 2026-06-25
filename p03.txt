@@ -1,1 +1,2 @@
 uvodni radek p03
+Text přidaný do souboru p03.txt
